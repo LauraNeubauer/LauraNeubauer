@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Laura!
 
 ### 🌐 Connect with Me
-[🆇 X](https://twitter.com/Laura_Neubauer_) | [🙏🏻 LinkedIn](https://www.linkedin.com/in/laura-neubauer/) | [💼 Behance](https://www.behance.net/lauraneubauer)
+[🆇 X](https://twitter.com/Laura_Neubauer_) | [🙏🏻 LinkedIn](https://www.linkedin.com/in/laura-neubauer/) | [💼 Behance](https://www.behance.net/lauraneubauer) | [YouTube](https://www.youtube.com/@creative_space_2023)
 
 Welcome to my coding playground! 🚀 
 I'm a passionate developer with a love for turning caffeine into code. 
