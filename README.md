@@ -23,7 +23,7 @@ When I'm not pushing pixels and typing away at my keyboard, you'll find me explo
 
 Design Tools: Photoshop, Illustrator, InDesign, After Effects, Premiere Pro, XD, Lightroom, Blender, Sketch, Figma, Cinema 4d
 
-Languages: JavaScript, HTML, CSS, HTML, Swift, Kotlin, CSS
+Languages: JavaScript, HTML, CSS, HTML, Swift, Kotlin
 
 IDE's: xCode, Android Studio, Intellij, VSCode
 
