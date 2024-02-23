@@ -10,9 +10,13 @@ When I'm not pushing pixels and typing away at my keyboard, you'll find me explo
 ### 🚀 My Tech Stack
 
 💻 App Developer
+
 🌐 Web Enthusiast
+
 📱 Mobile App Dev
+
 🧳 Traveler
+
 🔭 I’m currently working on turning innovative ideas into reality, exploring the vast universe of tech possibilities.
 
 ### 🛠️ My Toolbox
