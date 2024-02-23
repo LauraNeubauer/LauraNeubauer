@@ -35,8 +35,10 @@ Other: RESTful APIs, JSON, Responsive Design, MVC/MVVM/MVP
 
 ### 🚀 Latest Project: [SportHUB]
 
-My latest project – [SportHUB]. 
+My latest project – [SportHUB]
+
 (https://github.com/LauraNeubauer/SportHUB)
+
 (https://www.behance.net/gallery/191779057/SportHub-Empower-Sports-Community-Design-Code)
 
 "SportHUB" is an innovative app designed to connect sports enthusiasts. Utilizing the Group Finder feature, 
