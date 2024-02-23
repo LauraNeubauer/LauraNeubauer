@@ -18,10 +18,15 @@ When I'm not pushing pixels and typing away at my keyboard, you'll find me explo
 ### 🛠️ My Toolbox
 
 Design Tools: Photoshop, Illustrator, InDesign, After Effects, Premiere Pro, XD, Lightroom, Blender, Sketch, Figma, Cinema 4d
+
 Languages: JavaScript, HTML, CSS, HTML, Swift, Kotlin, CSS
+
 IDE's: xCode, Android Studio, Intellij, VSCode
+
 Databases: Room, Firebase
+
 Tools: Git, GitHUB, Jira, Slack
+
 Other: RESTful APIs, JSON, Responsive Design, MVC/MVVM/MVP
 
 ### 🚀 Latest Project: [SportHUB]
